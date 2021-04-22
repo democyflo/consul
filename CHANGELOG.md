@@ -33,7 +33,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - **SDG:** Add Sustainable Development Goals section [\#4252](https://github.com/consul/consul/pull/4252)
 - **SDG:** Add global SDG feature setting [\#4251](https://github.com/consul/consul/pull/4251)
 - **SDG:** Add SDG settings [\#4247](https://github.com/consul/consul/pull/4247) and [\#4486](https://github.com/consul/consul/pull/4486)
-- **Translations:** Update translations from Crowdin [\#4140](https://github.com/consul/consul/pull/4140) and [\#4479](https://github.com/consul/consul/pull/4479)
+- **Translations:** Update translations from Crowdin [\#4479](https://github.com/consul/consul/pull/4479)
 - **Users:** Allow users to delete their own comments [\#4226](https://github.com/consul/consul/pull/4226)
 
 ### Changed
