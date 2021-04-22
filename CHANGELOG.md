@@ -59,7 +59,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - **Maintenance-Deployment:** Upgrade Ruby to 2.6.6 [\#4209](https://github.com/consul/consul/pull/4209)
 - **Maintenance-Deployment:** Speed up deployment when Ruby is already installed [\#4458](https://github.com/consul/consul/pull/4458)
 - **Maintenance-Gems:** Upgrade to Rails 5.2 [\#4142](https://github.com/consul/consul/pull/4142)
-- **Maintenance-Gems:** Bump social-share-button from 1.1.0 to 1.2.3 [\#4201](https://github.com/consul/consul/pull/4201)
+- **Maintenance-Gems:** Bump social-share-button from 1.1.0 to 1.2.3 [\#4101](https://github.com/consul/consul/pull/4101)
 - **Maintenance-Gems:** Bump pg_search from 2.3.0 to 2.3.4 [\#4202](https://github.com/consul/consul/pull/4202)
 - **Maintenance-Gems:** Bump rollbar from 3.0.0 to 3.0.1 [\#4199](https://github.com/consul/consul/pull/4199)
 - **Maintenance-Gems:** Bump savon from 2.12.0 to 2.12.1 [\#4146](https://github.com/consul/consul/pull/4146)
