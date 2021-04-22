@@ -147,7 +147,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/spec/v2.0.0.
 - **Management:** Improve create investments in Management section [\#4448](https://github.com/consul/consul/pull/4448)
 - **Management:** Avoid exceptions in Management section [\#4443](https://github.com/consul/consul/pull/4443)
 - **Notifications:** Fix admin notification with relative URLs [\#4450](https://github.com/consul/consul/pull/4450)
-- **Proposals** Hide related content proposals when these proposals are retired by their authors #3559 [\#4196](https://github.com/consul/consul/pull/4196)
+- **Proposals** Hide related content proposals when these proposals are retired by their authors [\#4196](https://github.com/consul/consul/pull/4196)
 - **Proposals:** Expire cache when users follow/unfollow [\#4463](https://github.com/consul/consul/pull/4463)
 - **Proposals:** Do not make suggestions for related titles on edit pages [\#4455](https://github.com/consul/consul/pull/4455)
 - **Translations:** Fix source translations typos [\#4476](https://github.com/consul/consul/pull/4476)
